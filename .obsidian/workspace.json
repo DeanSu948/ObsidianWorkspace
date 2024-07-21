@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5,
-    "collapsed": true
+    "width": 247.5
   },
   "right": {
     "id": "0530a8640bdf6717",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CU_Study/COMS_3157/Lecture/02-compile.pdf",
+                "file": "CU_Study/COMS_3157/LectureNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CU_Study/COMS_3157/Lecture/02-compile.pdf",
+                "file": "CU_Study/COMS_3157/LectureNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CU_Study/COMS_3157/Lecture/02-compile.pdf"
+                "file": "CU_Study/COMS_3157/LectureNotes.md"
               }
             }
           }
@@ -165,16 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46a51363fa177561",
+  "active": "6c14b82d41c3f7d4",
   "lastOpenFiles": [
-    "CU_Study/COMS_3157/LectureNotes.md",
     "CU_Study/COMS_3157/Lecture/02-compile.pdf",
-    "Pasted image 20240721232504.png",
-    "Pasted image 20240721231300.png",
+    "Welcome.md",
     "Portability (en-US).md",
+    "CU_Study/COMS_3157/LectureNotes.md",
+    "CU_Study/COMS_3157/pic/Pasted image 20240721232504.png",
+    "CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
     "CU_Study/COMS_3157/pic/Pasted image 20240721224705.png",
     "CU_Study/COMS_3157/Lecture/01-cli-basics.pdf",
-    "Welcome.md",
     "CU_Study/COMS 3157/笔记整理.md",
     "CU_Study/COMS_3157/Lecture/overview-sockets-http.pdf",
     "CU_Study/COMS_3157/Lecture/git-tutorial.pdf",
