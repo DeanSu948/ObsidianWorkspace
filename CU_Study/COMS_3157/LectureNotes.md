@@ -22,4 +22,44 @@
 ## Linker and symbols
 ld会将.o文件link在一起，也会define symbols。什么是symbols呢？Symbols是编译中共享的函数和全局变量的名字。在.o文件中调用了已经定义的symbol，编译的时候相当于留下了一个placeholder。ld就是要将这些symbol的placeholder填充起来。
 
-# Header and \#include
+## Header and \#include
+假设需要在一个.c文件当中调用另外一个.c文件当中的函数，如果在当前这个.c文件的开始重复一遍函数代码，这非常不便。因此，可以将.c文件抽象成一个头文件，在其他文件头采用#include的方式来引用。
+
+不过本质上，在编译链接的时候，其实就是将对应的代码插入到#include声明处。
+
+当然，C语言其实是有一些标准库的，例如stdio.h，标准库当中包含一些常用的函数，具体不展开。
+
+## Make
+在编译过程中，Make是一个非常好的编译系统来管理增量式的编译。可以详见：
+https://www.gnu.org/software/make/manual/make.html
+
+Make可以对要编译的文件进行单个或者多个的编译规则的编写，这样极大方便编译过程。
+
+Sample makefile可以参见[[02-compile.pdf#page=7&selection=31,0,31,15|02-compile, page 7]]
+
+# 03. C语言基础
+## 数据类型
+- char
+- short
+- int
+- long
+- long long
+
+# sizeof
+sizeof可以显示出来数据类型的size in byte，需要注意的是，sizeof本质是一个operator而非一个函数。在printf当中要显示出来需要用%lu
+
+## 进制类型
+不多赘述
+
+## Other C types
+stdint.h有些类型定义，在C99的标准当中被定义到，例如：
+- int8_t
+- uint8_t
+- uint32_t
+- int64_t
+
+对于浮点数有：
+- float，32bit
+- double，64bit
+
+C当中用

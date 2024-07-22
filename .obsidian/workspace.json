@@ -6,7 +6,7 @@
       {
         "id": "64df3a2c35f3eba6",
         "type": "tabs",
-        "dimension": 34.584450402144775,
+        "dimension": 41.39871382636656,
         "children": [
           {
             "id": "6c14b82d41c3f7d4",
@@ -23,17 +23,17 @@
         ]
       },
       {
-        "id": "af5062e3fcb81354",
+        "id": "c1b976320d581b9a",
         "type": "tabs",
-        "dimension": 65.41554959785523,
+        "dimension": 58.60128617363344,
         "children": [
           {
-            "id": "46a51363fa177561",
+            "id": "8199bff24e725710",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CU_Study/COMS_3157/Lecture/02-compile.pdf"
+                "file": "CU_Study/COMS_3157/Lecture/03-c-basics.pdf"
               }
             }
           }
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,12 +167,13 @@
   },
   "active": "6c14b82d41c3f7d4",
   "lastOpenFiles": [
+    "CU_Study/COMS_3157/Lecture/03-c-basics.pdf",
+    "CU_Study/COMS_3157/LectureNotes.md",
     "CU_Study/COMS_3157/Lecture/02-compile.pdf",
+    "CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
     "Welcome.md",
     "Portability (en-US).md",
-    "CU_Study/COMS_3157/LectureNotes.md",
     "CU_Study/COMS_3157/pic/Pasted image 20240721232504.png",
-    "CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
     "CU_Study/COMS_3157/pic/Pasted image 20240721224705.png",
     "CU_Study/COMS_3157/Lecture/01-cli-basics.pdf",
     "CU_Study/COMS 3157/笔记整理.md",
@@ -181,7 +183,6 @@
     "CU_Study/COMS_3157/Lecture/18-http.pdf",
     "CU_Study/COMS_3157/Lecture/17-tcpip.pdf",
     "CU_Study/COMS_3157/Lecture/14-endian.pdf",
-    "CU_Study/COMS_3157/Lecture/16-unix.pdf",
-    "CU_Study/COMS_3157/Lecture/15-fork.pdf"
+    "CU_Study/COMS_3157/Lecture/16-unix.pdf"
   ]
 }
