@@ -45,7 +45,7 @@ Sample makefile可以参见[[02-compile.pdf#page=7&selection=31,0,31,15|02-compi
 - long
 - long long
 
-# sizeof
+## sizeof
 sizeof可以显示出来数据类型的size in byte，需要注意的是，sizeof本质是一个operator而非一个函数。在printf当中要显示出来需要用%lu
 
 ## 进制类型
@@ -62,4 +62,28 @@ stdint.h有些类型定义，在C99的标准当中被定义到，例如：
 - float，32bit
 - double，64bit
 
-C当中用
+C当中用可以通过typedef定义新的类型
+
+## Bitwise vs. logical operators
+- logical operators:
+	- &&
+	- ||
+	- !
+- bitwise
+	- &
+	- |
+	- ~
+	- ^
+	- >>
+	- <<
+---
+# 04. Storage Classes
+主要就是变量的声明以及存储空间的关系
+不多赘述
+
+## Process memory address space
+![[Pasted image 20240723221234.png]]
+这是一个简单的Process memory space的描述
+
+---
+# 05.Pointers
