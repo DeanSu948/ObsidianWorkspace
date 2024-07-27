@@ -15,9 +15,9 @@
               "state": {
                 "file": "日常看板.canvas",
                 "viewState": {
-                  "x": 393.02058936520405,
-                  "y": 211.23575001478807,
-                  "zoom": -0.82745101425251
+                  "x": 90,
+                  "y": 350,
+                  "zoom": -1.0817017320815834
                 }
               }
             }
@@ -147,7 +147,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "800abaf733e15fc3",
