@@ -14,10 +14,23 @@ kanban-plugin: board
 - [ ] [[数字芯片辅助技能学习]]
 
 
+## 最高优先级处理 🔺
+
+
+
+## 次优先级处理
+
+- [ ] 简历修改 ⏳ 2024-08-02
+
+
+## 低优先级处理 🔽
+
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"new-line-trigger":"enter","show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"new-line-trigger":"enter","show-checkboxes":true}
 ```
 %%
