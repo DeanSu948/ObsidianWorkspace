@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"1020b9d96333c3e9","type":"group","x":-80,"y":-360,"width":682,"height":760,"color":"1","label":"CS15-213"},
+		{"id":"000b5410772d26b5","type":"group","x":-80,"y":500,"width":840,"height":560,"color":"3","label":"SoC Prerequisite Review"},
+		{"id":"a9eb600e5b8a63c7","type":"file","file":"01.SelfStudy/CS 15-213/CS 15-213课程学习.md","x":-60,"y":-207,"width":642,"height":437},
+		{"id":"56a5fd976e7618bb","type":"text","text":"CS15-213:\n优先看完视频\nLAB为主，CSAPP为辅","x":-60,"y":-336,"width":222,"height":89},
+		{"id":"637069b43a08f73f","type":"file","file":"PersonalManagement/PersonalManagement.md","x":-580,"y":-360,"width":380,"height":566},
+		{"id":"cb24db4fcac958bc","type":"text","text":"计划7/30看完Lectures","x":-60,"y":230,"width":251,"height":50},
+		{"id":"cb41e1acb679cf2b","type":"text","text":"LAB待排期","x":-60,"y":280,"width":251,"height":50},
+		{"id":"362bd3e641d9f7ea","type":"text","text":"CSAPP阅读","x":-60,"y":330,"width":251,"height":50},
+		{"id":"b7caa3a5351cfc26","type":"text","text":"CS15-213看完之后速刷","x":-60,"y":520,"width":251,"height":56},
+		{"id":"4c79200966d96be8","type":"file","file":"00.CU_Study/CSEE_3827/CSEE3827梳理.md","x":-60,"y":620,"width":400,"height":400},
+		{"id":"445bce7507515894","type":"file","file":"00.CU_Study/COMS_3157/COMS3157梳理.md","x":340,"y":620,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a08d226e80bee838","fromNode":"cb24db4fcac958bc","fromSide":"right","toNode":"b7caa3a5351cfc26","toSide":"left","color":"1","label":"下级任务"}
+	]
+}

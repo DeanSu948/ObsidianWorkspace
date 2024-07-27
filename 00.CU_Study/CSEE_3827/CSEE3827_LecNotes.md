@@ -45,4 +45,3 @@ Minterm/Maxterm，用truth table得到
 如何避免呢？同步设计和extra implicants
 
 # 04. 
-

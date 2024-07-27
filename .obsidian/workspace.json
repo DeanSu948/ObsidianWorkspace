@@ -4,24 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "29ede8bd861dfee0",
+        "id": "7d616aea89829d91",
         "type": "tabs",
         "children": [
           {
-            "id": "867dea1c3052e666",
+            "id": "800abaf733e15fc3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "ToDoBoard.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "日常看板.canvas",
+                "viewState": {
+                  "x": 393.02058936520405,
+                  "y": 211.23575001478807,
+                  "zoom": -0.82745101425251
                 }
               }
             }
@@ -92,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDoBoard.md",
+                "file": "日常看板.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDoBoard.md",
+                "file": "日常看板.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDoBoard.md"
+                "file": "日常看板.canvas"
               }
             }
           }
@@ -141,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,35 +150,47 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "867dea1c3052e666",
+  "active": "800abaf733e15fc3",
   "lastOpenFiles": [
-    "CU_Study/CSEE_3827/LectureNotes.md",
-    "ToDoBoard.md",
-    "CU_Study/COMS_3157/LectureNotes.md",
-    "Untitled.canvas",
+    "PersonalManagement/PersonalManagement.md",
+    "日常看板.canvas",
+    "01.SelfStudy/CS 15-213/CS 15-213课程学习.md",
+    "01.SelfStudy/拉扎维模拟系列2/拉扎维模拟系列2_LecNotes.md",
+    "01.SelfStudy/拉扎维模拟系列1/拉扎维模拟系列1.md",
+    "01.SelfStudy/拉扎维模拟系列2/拉扎维模拟系列2.md",
+    "01.SelfStudy/拉扎维模拟系列1/拉扎维模拟系列1_LecNotes.md",
+    "01.SelfStudy/数字芯片辅助技能",
+    "01.SelfStudy/CS 15-213",
+    "01.SelfStudy/拉扎维模拟系列2",
+    "01.SelfStudy/拉扎维模拟系列1",
+    "01.SelfStudy",
     "Untitled Kanban.md",
-    "CU_Study/COMS_3157/Lecture/overview-sockets-http.pdf",
+    "CU_Study/CSEE_3827/recycle/LectureNotes_VER_UNUSED.md",
+    "CU_Study/COMS_3157/recycle/LectureNotes_VER_UNUSED.md",
+    "LecNotes.md",
+    "CU_Study/CSEE_3827/recycle",
+    "00.CU_Study/CSEE_3827/CSEE3827梳理.md",
+    "00.CU_Study/CSEE_3827/CSEE3827_LecNotes.md",
+    "01.SelfStudy/数字芯片辅助技能/数字芯片辅助技能学习.md",
+    "00.CU_Study/COMS_3157/COMS3157梳理.md",
+    "00.CU_Study/COMS_3157/COMS3157_LecNotes.md",
+    "CU_Study/COMS_3157/recycle",
+    "PersonalManagement/Link_Level01",
+    "[数字芯片辅助技能学习.md",
+    "PersonalManagement/Link_Level00",
+    "PersonalManagement",
     "COMS3157.md",
-    "CU_Study/COMS_3157/Lecture/17-tcpip.pdf",
-    "CU_Study/COMS_3157/Lecture/18-http.pdf",
-    "CU_Study/COMS_3157/Lecture/ap-overview.pdf",
-    "CU_Study/CSEE_3827/Lectures/4_combinationalCircuits.pdf",
-    "CU_Study/CSEE_3827/Lectures/3_booleanAlgebra.pdf",
-    "CU_Study/CSEE_3827/pic/Pasted image 20240723232511.png",
-    "CU_Study/CSEE_3827/pic/Pasted image 20240723225920.png",
-    "CU_Study/CSEE_3827/pic/Pasted image 20240723225525.png",
+    "00.CU_Study/CSEE_3827/pic/Pasted image 20240723232511.png",
+    "00.CU_Study/CSEE_3827/pic/Pasted image 20240723225920.png",
+    "00.CU_Study/CSEE_3827/pic/Pasted image 20240723225525.png",
     "Pasted image 20240723225504.png",
-    "CU_Study/CSEE_3827/Lectures/2_infoRepresentation.pdf",
-    "CU_Study/CSEE_3827/pic/Pasted image 20240723224339.png",
-    "CU_Study/CSEE_3827/Lectures/1_overview.pdf",
-    "CU_Study/CSEE_3827/pic",
-    "CU_Study/COMS_3157/Lecture/05-pointers.pdf",
-    "CU_Study/COMS_3157/pic/Pasted image 20240723221234.png",
-    "CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
+    "00.CU_Study/CSEE_3827/pic/Pasted image 20240723224339.png",
+    "00.CU_Study/COMS_3157/pic/Pasted image 20240723221234.png",
+    "00.CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
     "Welcome.md",
     "Portability (en-US).md",
-    "CU_Study/COMS_3157/pic/Pasted image 20240721232504.png",
-    "CU_Study/COMS_3157/pic/Pasted image 20240721224705.png",
+    "00.CU_Study/COMS_3157/pic/Pasted image 20240721232504.png",
+    "00.CU_Study/COMS_3157/pic/Pasted image 20240721224705.png",
     "CU_Study/COMS 3157/笔记整理.md"
   ]
 }
