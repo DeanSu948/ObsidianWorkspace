@@ -15,9 +15,9 @@
               "state": {
                 "file": "日常看板.canvas",
                 "viewState": {
-                  "x": 90,
-                  "y": 350,
-                  "zoom": -1.0817017320815834
+                  "x": 369.18073277999434,
+                  "y": 148.52316444397485,
+                  "zoom": 0.2516316012517498
                 }
               }
             }
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,33 +154,36 @@
   },
   "active": "800abaf733e15fc3",
   "lastOpenFiles": [
-    "PersonalManagement/PersonalManagement.md",
+    "00.CU_Study/CSEE_4823/1.LectureSlides/L01 Intro.pdf",
     "日常看板.canvas",
+    "00.CU_Study/CSEE_4823/course_image/logics.jpg",
+    "00.CU_Study/CSEE_4823/course_image",
+    "00.CU_Study/CSEE_4823/6.References/Synthesizable construct table.pdf",
+    "00.CU_Study/CSEE_4823/6.References/stan-long-and-fast-up-down-counters-tc98.pdf",
+    "00.CU_Study/CSEE_4823/6.References/Handout - RTL ASM.pdf",
+    "00.CU_Study/CSEE_4823/6.References/Handout - microprogrammed control supp.pdf",
+    "00.CU_Study/CSEE_4823/6.References/Handout - Error correction code.pdf",
+    "00.CU_Study/CSEE_4823/6.References/95TVLSI Bus Invert Coding by Stan & Burleson.pdf",
+    "00.CU_Study/CSEE_4823/6.References/95IEEE low power digital circuit by chandrakasan.pdf",
+    "00.CU_Study/CSEE_4823/6.References",
+    "00.CU_Study/CSEE_4823/3.ExamRelated/solution p2.JPG",
+    "00.CU_Study/CSEE_4823/3.ExamRelated/solution p1.JPG",
+    "PersonalManagement/PersonalManagement.md",
     "01.SelfStudy/CS 15-213/CS 15-213课程学习.md",
     "01.SelfStudy/拉扎维模拟系列2/拉扎维模拟系列2_LecNotes.md",
     "01.SelfStudy/拉扎维模拟系列1/拉扎维模拟系列1.md",
     "01.SelfStudy/拉扎维模拟系列2/拉扎维模拟系列2.md",
     "01.SelfStudy/拉扎维模拟系列1/拉扎维模拟系列1_LecNotes.md",
-    "01.SelfStudy/数字芯片辅助技能",
-    "01.SelfStudy/CS 15-213",
-    "01.SelfStudy/拉扎维模拟系列2",
-    "01.SelfStudy/拉扎维模拟系列1",
-    "01.SelfStudy",
     "Untitled Kanban.md",
     "CU_Study/CSEE_3827/recycle/LectureNotes_VER_UNUSED.md",
     "CU_Study/COMS_3157/recycle/LectureNotes_VER_UNUSED.md",
     "LecNotes.md",
-    "CU_Study/CSEE_3827/recycle",
     "00.CU_Study/CSEE_3827/CSEE3827梳理.md",
     "00.CU_Study/CSEE_3827/CSEE3827_LecNotes.md",
     "01.SelfStudy/数字芯片辅助技能/数字芯片辅助技能学习.md",
     "00.CU_Study/COMS_3157/COMS3157梳理.md",
     "00.CU_Study/COMS_3157/COMS3157_LecNotes.md",
-    "CU_Study/COMS_3157/recycle",
-    "PersonalManagement/Link_Level01",
     "[数字芯片辅助技能学习.md",
-    "PersonalManagement/Link_Level00",
-    "PersonalManagement",
     "COMS3157.md",
     "00.CU_Study/CSEE_3827/pic/Pasted image 20240723232511.png",
     "00.CU_Study/CSEE_3827/pic/Pasted image 20240723225920.png",
@@ -190,8 +194,6 @@
     "00.CU_Study/COMS_3157/pic/Pasted image 20240721231300.png",
     "Welcome.md",
     "Portability (en-US).md",
-    "00.CU_Study/COMS_3157/pic/Pasted image 20240721232504.png",
-    "00.CU_Study/COMS_3157/pic/Pasted image 20240721224705.png",
     "CU_Study/COMS 3157/笔记整理.md"
   ]
 }
